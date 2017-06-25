@@ -1,0 +1,13 @@
+{
+  "name": "cameramirror",
+  "version": "1.0.0",
+  "description": "camera mirror",
+  "repository": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}

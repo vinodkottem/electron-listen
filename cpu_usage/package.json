@@ -1,0 +1,14 @@
+{
+  "name": "cpu_usage",
+  "version": "1.0.0",
+  "description": "CPU uasge chart",
+  "repository": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
